@@ -20,7 +20,7 @@ In this project I haved used  the following:
 
 ## Results
 
-Here are the results after 90 ecochs. First row shows original face, second row when the face is transformed to other age groups (i.e. 20-30 age group for 50-60 age group person, 50-60 age group for 20-30 age group persons), thir row shows whne the image is transformed back to original age group
+Here are the results after 90 ecochs. First row shows original face, second row when the face is transformed to other age groups (i.e. 20-30 age group for 50-60 age group person, 50-60 age group for 20-30 age group persons), thir row shows when the image is transformed back to original age group
 
 ![GAN Images](/epoch90.png)
 
